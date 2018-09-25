@@ -1,6 +1,9 @@
-// pages
-const load = require('./modules/pages/loading'),
-   gameOver = require('./modules/pages/game-over');
+// services
+const load = require('./modules/services/load'),
+    gameOver = require('./modules/services/game-over');
 
-load.load();
-gameOver.load();
+// pages 
+const menu = require('./modules/pages/main-menu');
+
+// init page load
+load(menu);
