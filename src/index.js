@@ -1,3 +1,3 @@
-const loadingPage = require('./modules/pages/loading');
+const load = require('./modules/pages/loading');
 
-loadingPage.load();
+load.load();
