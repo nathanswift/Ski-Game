@@ -4,7 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "build": "cd build && clear && php -S localhost:8000"
+    "start": "webpack",
+    "server": "cd dist && php -S localhost:4200"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/nathanswift/Ski-Game/issues"
   },
-  "homepage": "https://github.com/nathanswift/Ski-Game#readme"
+  "homepage": "https://github.com/nathanswift/Ski-Game#readme",
+  "dependencies": {
+    "webpack": "^4.19.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.1.1"
+  }
 }
