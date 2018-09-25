@@ -1,0 +1,19 @@
+{
+  "name": "ski-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "build": "cd build && clear && php -S localhost:8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanswift/Ski-Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathanswift/Ski-Game/issues"
+  },
+  "homepage": "https://github.com/nathanswift/Ski-Game#readme"
+}
