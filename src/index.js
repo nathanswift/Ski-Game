@@ -6,4 +6,6 @@ const load = require('./modules/services/load'),
 const menu = require('./modules/pages/main-menu');
 
 // init page load
-load(menu);
+(function () {
+    load(menu);
+})();
