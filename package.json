@@ -4,7 +4,6 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "webpack",
     "server": "cd dist && php -S localhost:4200"
   },
   "repository": {
