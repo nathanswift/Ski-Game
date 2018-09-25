@@ -1,0 +1,44 @@
+html,
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+div#root {
+    position: absolute;
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+    background-color: #555;
+    background-size: cover;
+}
+
+div.btn {
+    height: fit-content;
+    background-color: aliceblue;   
+    border-radius: 20px;
+    margin: 15%;
+    display: inline-block;
+    text-align: center;
+    padding: 15px;
+    line-height: normal;
+}
+
+a.footer-link {
+    height: 25px;
+    color: white;
+    display: inline-block;
+    text-align: center;
+    line-height: normal;
+    padding: 15px;
+}
+
+div.h1 {
+    height: fit-content;
+    background-color: white;
+    border-radius: 20px;
+    width: 100px;
+    display: inline-block;
+    position: relative;
+    top: -15px;
+}

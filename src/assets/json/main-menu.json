@@ -1,0 +1,48 @@
+{
+    "background": "https://images.ecosia.org/jnc-eSqY_ca4rG1KQEdKZzd4z7A=/0x390/smart/http%3A%2F%2F2.bp.blogspot.com%2F-0w_SXcvQNEk%2FUQfUiVvmExI%2FAAAAAAAAgxY%2FkgWHGsgh0w8%2Fs1600%2FMountain-Landscapes-14.jpg",
+    "title": "Ski Game",
+    "btns": [{
+            "text": "Play Now",
+            "page": "game"
+        }, {
+            "text": "Settings",
+            "page": "settings"
+        },
+        {
+            "text": "Games Menu",
+            "page": "games-menu"
+        }
+    ],
+    "footer": {
+        "text": "Ski Game Copyright 2018",
+        "links": [{
+                "text": "**onflo logo",
+                "page": "http://www.onflo.io/pages/home/"
+            },
+            {
+                "text": "Nathan Swift",
+                "page": "https://nathanswift.github.io/Nate-Swift/dist/"
+            },
+            {
+                "text": "**github logo",
+                "page": "https://github.com/nathanswift"
+            },
+            {
+                "text": "**instagram logo",
+                "page": "https://www.instagram.com/thenateswift/"
+            },
+            {
+                "text": "Jade Cook",
+                "page": "http://www.jadeallencook.com/"
+            },
+            {
+                "text": "**github logo",
+                "page": "https://github.com/jadeallencook"
+            },
+            {
+                "text": "**instagram logo",
+                "page": "https://www.instagram.com/jadeallencook/"
+            }
+        ]
+    }
+}
